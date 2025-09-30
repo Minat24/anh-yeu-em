@@ -17,3 +17,4 @@
     messDesc: 'Thứ 7, anh qua đón em đi chơi nha.',
     btnAccept: 'Dạaaa anh <3',
     messLink: 'https://www.facebook.com/messages/e2ee/t/24136745026014560',
+ }
